@@ -1,0 +1,19 @@
+.note {
+  padding: 10px 10px 38px 34px;
+  height: auto;
+  margin: auto;
+  margin-bottom: 8px;
+  width: 60%;
+  background: #eed;
+  font-size: 1.5rem;
+  position: relative;
+}
+
+.remove-btn {
+  position: absolute;
+  right: 0;
+  padding-right: 15px;
+  cursor: pointer;
+  top: 0px;
+  font-size: 30px;
+}
