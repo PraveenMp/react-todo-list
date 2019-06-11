@@ -1,9 +1,6 @@
 import React, { Component } from "react";
 import HeaderComp from "./header/header";
 import "./App.css";
-import { Route, Link, Switch } from "react-router-dom";
-import About from "./about/about";
-import Messages from "./messages/message";
 import Home from "./home/home";
 
 class App extends Component {
